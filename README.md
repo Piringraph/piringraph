@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Backend Development**
 
-- 👨‍💻 You can check my projects at <a href="https://piringraph.github.io/" target="_blank">my website</a>
+- 👨‍💻 You can know more about my projects <a href="https://piringraph.github.io/" target="_blank">here</a>
 
 - 💬 Ask me about **Node.js, Go and APIs**
 
